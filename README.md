@@ -78,17 +78,6 @@ The `India States-UTs.csv` should be structured like this:
 
 ---
 
-## ✍️ Author
-
-* **SK Arin**
-* [https://github.com/ska2704]
-
----
-
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-Let me know if you'd like the `demo-screenshot.png` or a ready-to-use `India States-UTs.csv` template!
