@@ -1,7 +1,3 @@
-Here’s a sample **README.md** for your "India States Game" Turtle project:
-
----
-
 # 🧩 India States & UTs Game 🗺️
 
 A fun and educational Python game that helps you learn and locate all the **States and Union Territories** of India using the `turtle` graphics module.
